@@ -1,0 +1,28 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+textarea {
+  position: fixed;
+  left: 0;
+  top: 200px;
+  width: 100vw;
+  height: calc(100vh - 200px);
+  font-family: 'Roboto Mono';
+  font-size: 18px;
+  padding: 20px;
+  color: black;
+  border: none;
+}
+
+textarea.bad {
+  color: #f84653;
+}
+
+h3 {
+  font-family: 'Roboto Mono', consolas;
+  margin-top: 50px;
+  padding-left: 20px;
+}
