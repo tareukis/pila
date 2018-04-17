@@ -1,1 +1,3 @@
 # AUTÓMATA DE PILA, ESTO ES PARA TAREAS
+
+{, (, [
